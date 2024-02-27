@@ -1,0 +1,15 @@
+{
+    "name": "marcel/hyper-psaro-final",
+    "autoload": {
+        "psr-4": {
+            "Marcel\\HyperPsaroFinal\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mardoche Ngudie",
+            "email": "mardochegudie7@gmail.com"
+        }
+    ],
+    "require": {}
+}

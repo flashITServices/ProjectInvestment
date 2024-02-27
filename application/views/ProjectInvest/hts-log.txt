@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 01 Jul 2022 21:39:29 at https://mentoring-laravel.dreamguystech.com/template/public/index +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://mentoring-laravel.dreamguystech.com/template/public/index -O1 "C:\Users\Hertzy\Desktop\mentoring" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:41:16	Warning: 	File not parsed, looks like binary: https://mentoring-laravel.dreamguystech.com/template/public/assets/plugins/fontawesome/webfonts/fa-brands-400.woff2
+21:41:16	Warning: 	File not parsed, looks like binary: https://mentoring-laravel.dreamguystech.com/template/public/assets/plugins/fontawesome/webfonts/fa-regular-400.woff2
+21:41:16	Warning: 	File not parsed, looks like binary: https://mentoring-laravel.dreamguystech.com/template/public/assets/plugins/fontawesome/webfonts/fa-solid-900.woff2
+21:41:17	Error: 	"Not Found" (404) at link https://mentoring-laravel.dreamguystech.com/template/public/assets/css/owl.video.play.png (from https://mentoring-laravel.dreamguystech.com/template/public/assets/css/owl.carousel.min.css)
+21:41:17	Warning: 	File not parsed, looks like binary: https://mentoring-laravel.dreamguystech.com/template/public/assets/fonts/MaterialIcons-Regular.woff2
+21:41:17	Error: 	"Not Found" (404) at link https://mentoring-laravel.dreamguystech.com/template/public/payment-mentee (from https://mentoring-laravel.dreamguystech.com/template/public/checkout)
+21:41:46	Warning: 	File not parsed, looks like binary: https://mentoring-laravel.dreamguystech.com/template/public/assets_admin/fonts/fontawesome-webfont.woff2?v=4.7.0
+21:41:47	Warning: 	File not parsed, looks like binary: https://mentoring-laravel.dreamguystech.com/template/public/assets_admin/fonts/MaterialIcons-Regular.woff2
+21:42:08	Warning: 	File not parsed, looks like binary: https://mentoring-laravel.dreamguystech.com/template/public/assets_admin/plugins/fontawesome/webfonts/fa-brands-400.woff2
+21:42:08	Warning: 	File not parsed, looks like binary: https://mentoring-laravel.dreamguystech.com/template/public/assets_admin/plugins/fontawesome/webfonts/fa-regular-400.woff2
+21:42:08	Warning: 	File not parsed, looks like binary: https://mentoring-laravel.dreamguystech.com/template/public/assets_admin/plugins/fontawesome/webfonts/fa-solid-900.woff2
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 40 seconds : 258 links scanned, 255 files written (16622103 bytes overall) [10322977 bytes received at 64518 bytes/sec], 10921297 bytes transferred using HTTP compression in 164 files, ratio 39%, 129.0 requests per connection
+(2 errors, 9 warnings, 0 messages)
